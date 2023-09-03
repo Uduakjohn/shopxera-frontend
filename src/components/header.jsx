@@ -37,7 +37,7 @@ const header = () => {
             <p>The trending outfits at 100% off</p>
           </div>
           <div className="col-md-2">
-          <a href="tel:+254708118414">Call us at +1 (234) 567-890</a>
+          <a href="tel:+234907649811">Call us at +2349076498114</a>
           </div>
           <div className="col-md">
             <Link className='links fs-4'><CiMail /></Link>
@@ -49,7 +49,7 @@ const header = () => {
             <p>Save Upto 100%</p>
           </div>
           <div className="col-md-2 m-auto">
-          <a href="tel:+254708118414">Call us</a>
+          <a href="tel:+2349076498114">Call us</a>
           </div>
           <div className="col-md-2 m-auto">
             <Link className='links fs-4'><CiMail /></Link>
@@ -72,7 +72,8 @@ const header = () => {
         </button>
 
         <Link to='/'>
-          <img src={logo} alt="logo" className='img-fluid logo' />
+        <h1>SHOPXERA</h1>
+          {/* <img src={logo} alt="logo" className='img-fluid logo' /> */}
         </Link>
         
 

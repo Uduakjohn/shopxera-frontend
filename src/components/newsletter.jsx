@@ -15,7 +15,7 @@ const newsletter = () => {
         </div>
         <div className="col-md-6 details d-flex flex-column justify-content-center">
           <div className="input-group mb-3">
-            <input type="text" id='news-input' className="form-control" placeholder="@example.com" aria-label="@example.com" aria-describedby="basic-addon2" />
+            <input type="text" id='news-input' className="form-control" placeholder="Casualsbyxera@gmail.com" aria-label="@example.com" aria-describedby="basic-addon2" />
             <button className="input-group-text" id="basic-addon2">Submit</button>
           </div>
         </div>

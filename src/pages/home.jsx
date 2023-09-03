@@ -28,7 +28,7 @@ const home = () => {
                   <h1>Super Value Deals</h1>
                   <h2>On all products</h2>
 
-                  <p className='mb-3'>Save more today with Apneck</p>
+                  <p className='mb-3'>Save more today with XERA</p>
 
                   <Link to='/shop' className='btn btn-primary' id='button-link'>Shop Now</Link>
                   </div>
@@ -133,7 +133,7 @@ const home = () => {
       </div>
       <div className="col-md-3 col-sm-6 mb-4">
         <div className="card">
-          <img src={blog1} className="card-img-top img-fluid" alt="..." />
+          <img src='https://scontent.fphc2-1.fna.fbcdn.net/v/t39.30808-6/349357544_1268919723993909_4883679056915769388_n.jpg?stp=c0.17.206.206a_dst-jpg_p206x206&_nc_cat=108&ccb=1-7&_nc_sid=0df3a7&_nc_eui2=AeF6VmYzWqB7dRgB2vNc16AxvCzpXfwVlT28LOld_BWVPf5vklZzXPvcq7d5IybNizoN1jvaLgqhYYnQzjhqho6H&_nc_ohc=vtb3y0HNctAAX-MbvQz&_nc_zt=23&_nc_ht=scontent.fphc2-1.fna&oh=00_AfAUdNH32qVRgo1IGad_IQU3YvPkHeS6uKwW5mlSS3kCLw&oe=64F8EB0E' className="card-img-top img-fluid" alt="..." />
           <div className="card-body">
             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the cards content.</p>
             <Link to='about'>
@@ -145,7 +145,7 @@ const home = () => {
 
       <div className="col-md-3 col-sm-6 mb-4">
         <div className="card">
-          <img src={blog2} className="card-img-top img-fluid" alt="..." />
+          <img src='https://scontent.fphc2-2.fna.fbcdn.net/v/t39.30808-6/349331017_608895454531016_1881535332370366714_n.jpg?stp=c0.17.206.206a_dst-jpg_p206x206&_nc_cat=111&ccb=1-7&_nc_sid=0df3a7&_nc_eui2=AeHhM7HOvQZL06yZnB3uEw_xv2hVtB_RzxO_aFW0H9HPE7qjvOrAxfXWSjw9PkAZDM7VnblsO81eHk3cFbbGmqZi&_nc_ohc=WjXrJ0Adk7sAX-fxA9C&_nc_zt=23&_nc_ht=scontent.fphc2-2.fna&oh=00_AfD83g0VXBS8UyuUfOudyzfeavWt1Nkr38doNQ9Z22_ojQ&oe=64F927FA' className="card-img-top img-fluid" alt="..." />
           <div className="card-body">
             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the cards content.</p>
             <Link to='about'>
@@ -157,7 +157,7 @@ const home = () => {
 
       <div className="col-md-3 col-sm-6 mb-4">
         <div className="card">
-          <img src={blog3} className="card-img-top img-fluid" alt="..." />
+          <img src='https://scontent.fphc2-1.fna.fbcdn.net/v/t39.30808-6/328778219_658266472648633_8514582382115814197_n.jpg?stp=c0.14.206.206a_cp6_dst-jpg_p206x206&_nc_cat=106&ccb=1-7&_nc_sid=0df3a7&_nc_eui2=AeEJ-w95zH9MJxuRVBe3tmw0-GQJueUJzFv4ZAm55QnMW8nL1mFv2Vog-RsoLgkPCiWEx2VlWs4cHVBOJBfL03HX&_nc_ohc=E_nUtvx1OWEAX9kx0ya&_nc_zt=23&_nc_ht=scontent.fphc2-1.fna&oh=00_AfB_Z1fFFFnhZhxHxE8LbtKcEWdMO7DGjK_x28vYGiEuig&oe=64FA684E' className="card-img-top img-fluid" alt="..." />
           <div className="card-body">
             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the cards content.</p>
             <Link to='about'>
@@ -169,7 +169,7 @@ const home = () => {
 
       <div className="col-md-3 col-sm-6 mb-4">
         <div className="card">
-          <img src={blog4} className="card-img-top img-fluid" alt="..." />
+          <img src='https://scontent.fphc2-1.fna.fbcdn.net/v/t39.30808-6/336163900_2287719111388581_2829414563809424492_n.jpg?stp=c0.23.206.206a_dst-jpg_p206x206&_nc_cat=101&ccb=1-7&_nc_sid=0df3a7&_nc_eui2=AeEBkbvfYaXz1Hbgax4gYtpRmC_dUqk-e_qYL91SqT57-hXgS2JHy4i0BVVbbLUsnEDjaOcS8zbt38fW11CpwyQS&_nc_ohc=KwI9IemblxoAX-4nUGv&_nc_zt=23&_nc_ht=scontent.fphc2-1.fna&oh=00_AfD2FXjk52uGONA23po6TpN-QjPDVLnpJoEM5Xl2bS1tcA&oe=64FA0526' className="card-img-top img-fluid" alt="..." />
           <div className="card-body">
             <p className="card-text">Some quick example text to build on the card title and make up the bulk of the cards content.</p>
             <Link to='about'>

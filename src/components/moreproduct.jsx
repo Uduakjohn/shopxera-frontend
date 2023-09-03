@@ -30,7 +30,7 @@ const moreproduct = (props) => {
                     size={24}
                     activeColor="#EA9D5A"
                 />
-                <p className="price"><span className="red">{product.price} </span>&nbsp; <strike>200$</strike></p>
+                <p className="price"><span className="red">{product.price}.toLocaleString() </span>&nbsp; <strike>20,000N</strike>/strike></p>
 
               </div>
               <div className="action-bar position-absolute">

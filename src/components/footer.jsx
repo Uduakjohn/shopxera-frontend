@@ -16,21 +16,21 @@ const footer = () => {
       <div className="row justify-content-center justify-content-md-start">
         <div className="col-md-4 col-lg-4 mb-4 mb-md-0 ">
           <h2 className='footer-title mb-3'><b>Contact</b></h2>
-          <div className='mb-3'><p><b>Address:</b>  Thika town, Naltex building, 2nd floor</p> </div>
-          <div className='mb-3'><p><b>Phone:</b>  <a className='footer-tel' href="tel:+1234567890">Call us at +1 (234) 567-890</a></p> </div>
+          <div className='mb-3'><p><b>Address:</b>Flourish plaza opp AP filling station ozuoba NTA,Port-Harcourt Nigeria</p> </div>
+          <div className='mb-3'><p><b>Phone:</b>  <a className='footer-tel' href="tel:+1234567890">Call us at +2349076498114</a></p> </div>
           <div className='mb-4'><p><b>Hours:</b>  From 8 a.m To 6 p.m</p> </div>
           <div className='mb-3'><p><b>Follow the developer</b></p> </div>
           <div className="socials d-flex gap-3">
-          <Link to='https://discord.com/channels/1027937184768081950/1027937184768081952' id='footer-link' target='_blank' className='gap-3'>
+          <Link to='' id='footer-link' target='_blank' className='gap-3'>
           <BsDiscord />
           </Link>
-          <Link to='https://twitter.com/eclarkhalid' id='footer-link' target='_blank' className='gap-3'>
+          <Link to='https://twitter.com/casualsbyxera' id='footer-link' target='_blank' className='gap-3'>
           <BsTwitter />
           </Link>
-          <Link className='gap-3' id='footer-link'>
+          <Link to='https://web.facebook.com/uduak.sam101/' className='gap-3' id='footer-link'>
           <BsFacebook />
           </Link>
-          <Link to='https://app.slack.com/client/T0195LMKD1R/D04QEBN1J80/rimeto_profile/U04PQHERFM1?cdn_fallback=2' id='footer-link' target='_blank' className='gap-3'>
+          <Link to='https://web.facebook.com/uduak.sam101/' id='footer-link' target='_blank' className='gap-3'>
           <BsSlack />
           </Link>
           </div>
@@ -80,13 +80,13 @@ const footer = () => {
       <hr className='my-4' />
       <div className="row">
         <div className="col-12 col-md-6">
-        <p className="text-center text-md-start">&copy;Developed by Eclar Developers 2023</p>
+        <p className="text-center text-md-start">&copy;Developed by Uduak Sam 2023</p>
         </div>
         <div className="col-12 col-md-6">
         <ul className="list-inline text-center text-md-end">
           <li className="list-inline-item"><Link to="#" className="text-dark">Privacy Policy</Link></li>
           <li className="list-inline-item"><Link to="#" className="text-dark">Terms of Use</Link></li>
-          <li className="list-inline-item"><Link to="#" className="text-dark">Contact Us</Link></li>
+          <li className="list-inline-item"><Link to="/contact" className="text-dark">Contact Us</Link></li>
         </ul>
       </div>
       </div>

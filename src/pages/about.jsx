@@ -59,7 +59,7 @@ const about = () => {
           <div className="card mb-3">
           <div className="row g-0">
             <div className="col-md-4">
-              <img src={blog1} className="img-fluid rounded-start" alt="..." />
+              <img src='https://scontent.fphc2-1.fna.fbcdn.net/v/t39.30808-6/349357544_1268919723993909_4883679056915769388_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5614bc&_nc_eui2=AeF6VmYzWqB7dRgB2vNc16AxvCzpXfwVlT28LOld_BWVPf5vklZzXPvcq7d5IybNizoN1jvaLgqhYYnQzjhqho6H&_nc_ohc=vtb3y0HNctAAX-MbvQz&_nc_zt=23&_nc_ht=scontent.fphc2-1.fna&oh=00_AfAtx-zzNlz2dCXWu9PBl52ryoWPcEmH-G_VD6gI3VomTQ&oe=64F8EB0E' className="img-fluid rounded-start" alt="..." />
             </div>
             <div className="col-md-8">
               <div className="card-body">
@@ -76,7 +76,7 @@ const about = () => {
               <div className="card mb-3">
                 <div className="row g-0">
                   <div className="col-md-4">
-                    <img src={blog2} alt="" className='img-fluid rounded-start' />
+                    <img src='https://scontent.fphc2-2.fna.fbcdn.net/v/t39.30808-6/335039325_2023819154683294_6676114057867213787_n.jpg?stp=c0.23.206.206a_dst-jpg_p206x206&_nc_cat=104&ccb=1-7&_nc_sid=0df3a7&_nc_eui2=AeHBPIER1c3Eg9etuDogiczDV4v53svc_YpXi_ney9z9io2gwJaBzGM1i_r4P9pbrB2AYSs_Cj0b2GV4_vEowmoA&_nc_ohc=tNe0AX2mDvUAX81KTrW&_nc_zt=23&_nc_ht=scontent.fphc2-2.fna&oh=00_AfDHhssWuBFUiayXV8kO_HYnO-KuxNltd68pbLVV2CQ9aw&oe=64FA9B61' alt="" className='img-fluid rounded-start' />
                   </div>
                   <div className="col-md-8">
                     <div className="card-body">
@@ -93,7 +93,7 @@ const about = () => {
               <div className="card mb-3">
                 <div className="row g-0">
                   <div className="col-md-4">
-                    <img src={blog3} alt="" className='img-fluid rounded-start' />
+                    <img src='https://scontent.fphc2-1.fna.fbcdn.net/v/t39.30808-6/328778219_658266472648633_8514582382115814197_n.jpg?stp=c0.14.206.206a_cp6_dst-jpg_p206x206&_nc_cat=106&ccb=1-7&_nc_sid=0df3a7&_nc_eui2=AeEJ-w95zH9MJxuRVBe3tmw0-GQJueUJzFv4ZAm55QnMW8nL1mFv2Vog-RsoLgkPCiWEx2VlWs4cHVBOJBfL03HX&_nc_ohc=E_nUtvx1OWEAX9kx0ya&_nc_zt=23&_nc_ht=scontent.fphc2-1.fna&oh=00_AfB_Z1fFFFnhZhxHxE8LbtKcEWdMO7DGjK_x28vYGiEuig&oe=64FA684E' alt="" className='img-fluid rounded-start' />
                   </div>
                   <div className="col-md-8">
                     <div className="card-body">
@@ -110,11 +110,11 @@ const about = () => {
               <div className="card mb-3">
                 <div className="row g-0">
                   <div className="col-md-4">
-                    <img src={blog4} alt="" className='img-fluid rounded-start' />
+                    <img src='https://scontent.fphc2-2.fna.fbcdn.net/v/t39.30808-6/331577627_606343111335453_5962933244846135453_n.jpg?stp=c0.23.206.206a_cp6_dst-jpg_p206x206&_nc_cat=111&ccb=1-7&_nc_sid=0df3a7&_nc_eui2=AeGxpE0h7R4j4FnZrGSS-KNZ6CksznC2PPvoKSzOcLY8-5PK9GERvbGCY6-bHFAYf5lFoMIr8zKDNWhtxEpxcERB&_nc_ohc=erBASPlq1X8AX8gbsY1&_nc_zt=23&_nc_ht=scontent.fphc2-2.fna&oh=00_AfC74m5j7EjWSDKO8e_eMLLkYGeKKHDMMPszK7KBiV1hZw&oe=64FA8ED4' alt="" className='img-fluid rounded-start' />
                   </div>
                   <div className="col-md-8">
                     <div className="card-body">
-                      <h5 className="card-title">Phillip Omosh</h5>
+                      <h5 className="card-title">Mercy</h5>
                       <p className="card-text mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit <br />. Doloribus maxime consequatur, ipsam architecto incidunt volup <br />tate! Iste ipsa numquam quos nam quibusdam perferendis excepturi rem, a quo laudantium libero dolore nisi.</p>
                       <p className="card-text"><small className="text-body-secondary">Last Updated now</small></p>
                     </div>
@@ -126,11 +126,11 @@ const about = () => {
               <div className="card mb-3">
                 <div className="row g-0">
                   <div className="col-md-4">
-                    <img src={blog2} alt="" className='img-fluid rounded-start' />
+                    <img src='https://scontent.fphc2-1.fna.fbcdn.net/v/t39.30808-6/324881805_1203892826924615_831049673711162051_n.jpg?stp=c0.36.206.206a_cp6_dst-jpg_p206x206&_nc_cat=106&ccb=1-7&_nc_sid=0df3a7&_nc_eui2=AeH25642X2s_-56UtSzSknj7V5UMDNdy8fpXlQwM13Lx-i3c7MRq_IEud5_D8eC9-48ylns_OHNfpnbEY5DdVlHJ&_nc_ohc=SKXqGz97dDMAX__kgcj&_nc_zt=23&_nc_ht=scontent.fphc2-1.fna&oh=00_AfBhNENVpnoCiR-j7YUHOTaZNB38V-cL9sfONrsxqxhIvw&oe=64FA8D34' alt="" className='img-fluid rounded-start' />
                   </div>
                   <div className="col-md-8">
                     <div className="card-body">
-                      <h5 className="card-title">Melisa Ivy</h5>
+                      <h5 className="card-title">Uddy</h5>
                       <p className="card-text mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit <br />. Doloribus maxime consequatur, ipsam architecto incidunt volup <br />tate! Iste ipsa numquam quos nam quibusdam perferendis excepturi rem, a quo laudantium libero dolore nisi.</p>
                       <p className="card-text"><small className="text-body-secondary">Last Updated now</small></p>
                     </div>
@@ -143,11 +143,11 @@ const about = () => {
               <div className="card mb-3">
               <div className="row g-0">
                 <div className="col-md-4">
-                  <img src={blog1} className="img-fluid rounded-start" alt="..." />
+                  <img src='https://scontent.fphc2-1.fna.fbcdn.net/v/t39.30808-6/328063240_568484535296534_3979401429727377840_n.jpg?stp=c0.23.206.206a_cp6_dst-jpg_p206x206&_nc_cat=108&ccb=1-7&_nc_sid=0df3a7&_nc_eui2=AeEb_K2ylLBX5oPKf9HRPxOYMuelI5qk-yAy56UjmqT7IN2nwdTD4s2BDTZ2XFXwy6LdJlsk6hs2wZabuChDHEUZ&_nc_ohc=iuXGgg0DGecAX-Ty-mi&_nc_zt=23&_nc_ht=scontent.fphc2-1.fna&oh=00_AfA-DuQCkaagVzuis6uG6KYmXdLFG7iwl_iBAePRB6Ma2A&oe=64FA2C20' className="img-fluid rounded-start" alt="..." />
                 </div>
                 <div className="col-md-8">
                   <div className="card-body">
-                    <h5 className="card-title">Marvel Clein</h5>
+                    <h5 className="card-title">Valentina</h5>
                     <p className="card-text mb-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit <br />. Doloribus maxime consequatur, ipsam architecto incidunt volup <br />tate! Iste ipsa numquam quos nam quibusdam perferendis excepturi rem, a quo laudantium libero dolore nisi.</p>
                     <p className="card-text"><small className="text-body-secondary">Last updated 3 mins ago</small></p>
                   </div>
